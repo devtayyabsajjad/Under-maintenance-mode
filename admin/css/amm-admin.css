@@ -1,0 +1,26 @@
+.amm-admin-wrapper {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.amm-admin-wrapper .form-table th {
+    width: 200px;
+}
+
+.amm-admin-wrapper select[multiple] {
+    width: 300px;
+    height: 150px;
+}
+
+.amm-social-icon {
+    margin-bottom: 10px;
+}
+
+.amm-social-icon input[type="text"] {
+    width: 200px;
+    margin-right: 10px;
+}
+
+.amm-color-picker {
+    width: 80px;
+}
