@@ -70,7 +70,7 @@
 ## 📱 Preview
 
 <p align="center">
-  <img src="assets/Preview.png" alt="Plugin Preview">
+  <img src="assets/Preview.PNG" alt="Plugin Preview">
 </p>
 
 ## 🤝 Contributing
