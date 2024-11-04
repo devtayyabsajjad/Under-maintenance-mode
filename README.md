@@ -11,7 +11,6 @@
 </p>
 > Transform your WordPress maintenance mode into a personalized experience with page-specific controls, user whitelisting, and customizable design elements.
 
-
 ## ✨ Key Features
 
 ### 🎯 Page-Specific Maintenance Mode
