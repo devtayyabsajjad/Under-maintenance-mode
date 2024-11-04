@@ -17,7 +17,6 @@
 - Enable maintenance mode on specific pages/posts
 - Flexible URL input options:
   - Add URLs line by line
-  - Use multi-select dropdown for easy page/post selection
 - Keep your site partially accessible while working on specific sections
 
 ### 👥 User Whitelist Management
