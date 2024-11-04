@@ -48,19 +48,20 @@
 2. Go to WordPress admin → Plugins → Add New
 3. Click "Upload Plugin" and select the downloaded ZIP
 4. Activate the plugin
-5. Navigate to Settings → WP Maintenance Pro to configure
+5. Navigate to Settings → Maintenance Mode
 
 ## ⚙️ Configuration
 
 ### Basic Setup
-1. Navigate to Settings → WP Maintenance Pro
+1. Navigate to Settings → Maintenance Mode
 2. Enable maintenance mode
 3. Select target pages/posts
 4. Configure user whitelist
+5. Customize Footer
 
 ### Design Customization
-1. Go to Appearance → Customize
-2. Find "Maintenance Page" section
+1. Go to Maintenance Mode
+2. Customize text colors
 3. Customize:
    - Social icons
    - Footer text
@@ -72,6 +73,33 @@
 <p align="center">
   <img src="assets/Preview.PNG" alt="Plugin Preview">
 </p>
+
+## 👥 Meet Our Amazing Team
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ahmad-fakhar-357742258/"><img src="https://github.com/Ahmad-Fakhar.png" width="120px;" alt="Ahmad Fakhar"/><br /><sub><b>Ahmad Fakhar</b><br></sub></a><br />
+      <a href="https://www.linkedin.com/in/ahmad-fakhar-357742258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"/></a>
+      <a href="https://github.com/Ahmad-Fakhar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100px"/></a>
+        </td>
+    <td align="center">
+      <a href="http://www.linkedin.com/in/tayyab-sajjad-156ab2267"><img src="https://avatars.githubusercontent.com/u/124726671?v=4" width="120px;" alt="Tayyab Sajjiad"/><br /><sub><b>Tayyab Sajjiad</b><br></sub></a><br />
+      <a href="http://www.linkedin.com/in/tayyab-sajjad-156ab2267"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"/></a>
+      <a href="https://github.com/devtayyabsajjad"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100px"/></a>
+    </td>
+  <td align="center">
+      <a href="https://www.linkedin.com/in/muhammad-ibrahim-qasmi-9876a1297/"><img src="https://github.com/muhammadibrahim313.png" width="120px;" alt="Muhammad Ibrahim"/><sub><br><b>Muhammad Ibrahim</b><br></sub></a><br />
+      <a href="https://www.linkedin.com/in/muhammad-ibrahim-qasmi-9876a1297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"/></a>
+      <a href="https://github.com/muhammadibrahim313"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100px"/></a>
+    </td>
+   <td align="center"> 
+  <a href="https://www.linkedin.com/in/"><img src="https://media.licdn.com/dms/image/v2/D4E03AQFyK8SIQkAFpA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1688370356823?e=1735776000&v=beta&t=1Uo6GsirXGHBxUzxrjJ77x6xBB4uduHmV5uyDaRK5Nw" width="120px;" alt="Usama"/><sub><br><b>Muhammad Bilal</b><br></sub></a><br />
+  <a href="https://www.linkedin.com/in/muhammad-bilal-a75782280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"/></a>
+  <a href="https://github.com/bilal77511"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100px"/></a>
+</td>
+</table>
 
 ## 🤝 Contributing
 
@@ -93,6 +121,4 @@ Having issues? [Open an issue](https://github.com/yourusername/wp-maintenance-pr
 
 ---
 
-<p align="center">
-Made with ❤️ for the WordPress Community
-</p>
+<div align="center"> <p>Made with ❤️ by Team B-TAJI</p> <p>© 2024 WP Maintenance. All rights reserved.</p> </div> 
