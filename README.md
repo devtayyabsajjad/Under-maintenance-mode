@@ -70,7 +70,7 @@
 ## 📱 Preview
 
 <p align="center">
-  <img src="assets/Preview.PNG" alt="Plugin Preview">
+  <img src="assets/Preview_2.PNG" alt="Plugin Preview">
 </p>
 
 ## 👥 Meet Our Amazing Team
