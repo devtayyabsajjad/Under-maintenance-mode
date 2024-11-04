@@ -24,13 +24,25 @@
 - Easy user selection through multi-select dropdown
 - Perfect for team collaboration during site updates
 
-### 🔗 Customizable Social Icons
-- Add unlimited social media links
-- For each social icon, customize:
-  - Social media link URL
-  - Custom icon upload
-  - Background color selection
-- Keep your audience connected during maintenance
+### 🔗 Social Media Integration
+- Connect with your audience during maintenance through popular social platforms
+- Easy social media configuration:
+  - Select platforms from dropdown menu options:
+    - Facebook
+    - Twitter/X
+    - Instagram
+    - YouTube
+  - Simply add your profile URL for each selected platform
+- Pre-styled social icons to maintain brand consistency
+- Automatic icon updates when new social platforms are added
+
+Example setup:
+```
+Facebook  [https://facebook.com/yourpage]     [Add]
+Twitter   [https://twitter.com/yourhandle]    [Add]
+Instagram [https://instagram.com/yourprofile] [Add]
+```
+
 
 ### ✏️ Footer Customization
 - Rich text editor for footer content
@@ -38,7 +50,7 @@
 - Perfect for copyright notices and additional information
 
 ### 🎨 Design Features
-- Custom background image upload
+- Customize background 
 - Responsive design for all devices
 - Modern and clean interface
 
