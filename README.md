@@ -2,12 +2,13 @@
   <img src="assets/banner.svg" alt="WP Maintenance Pro Banner" width="100%">
 </p>
 
-# 🛠️ WP Maintenance Pro
+<h1 align="center">🛠️ WP Maintenance Pro</h1>
 
-![WordPress Version](https://img.shields.io/badge/WordPress-%E2%89%A5%205.0-blue.svg)
-![PHP Version](https://img.shields.io/badge/PHP-%E2%89%A5%207.0-purple.svg)
-![License](https://img.shields.io/badge/License-GPL%20v2-orange.svg)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-%E2%89%A5%205.0-blue.svg" alt="WordPress Version">
+  <img src="https://img.shields.io/badge/PHP-%E2%89%A5%207.0-purple.svg" alt="PHP Version">
+  <img src="https://img.shields.io/badge/License-GPL%20v2-orange.svg" alt="License">
+</p>
 > Transform your WordPress maintenance mode into a personalized experience with page-specific controls, user whitelisting, and customizable design elements.
 
 ## ✨ Key Features
@@ -57,7 +58,6 @@
 2. Enable maintenance mode
 3. Select target pages/posts
 4. Configure user whitelist
-5. Customize Footer
 
 ### Design Customization
 1. Go to Maintenance Mode
